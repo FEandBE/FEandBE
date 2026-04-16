@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💻 Tech Stack & Tools
+
+**🎨 Front-End** <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+  </a>
+</p>
+
+**⚙️ Back-End & Database** <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,mongodb&theme=dark" />
+  </a>
+</p>
