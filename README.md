@@ -27,3 +27,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,mongodb&theme=dark" />
   </a>
 </p>
+### 📈 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayangkankamuitususkes&layout=compact&theme=github_dark&langs_count=6"/>
+</p>
