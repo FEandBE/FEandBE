@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 **📊 GitHub Analytics**
 
 <div align="center">
-  <img height="18em" src="https://github-readme-stats.vercel.app/api?username=FEandBE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="18em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FEandBE&layout=compact&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FEandBE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FEandBE&layout=compact&theme=github_dark"/>
 </div>
