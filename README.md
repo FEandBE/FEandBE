@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,mongodb&theme=dark" />
   </a>
 </p>
-### 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FEandBE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
